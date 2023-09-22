@@ -5,20 +5,37 @@
 Soy un apasionado estudiante de 42 Málaga con un profundo interés en el mundo de la ciberseguridad y la programación. A lo largo de mi trayecto académico, he adquirido una sólida base de conocimientos y experiencia en diversas áreas de la tecnología, y estoy comprometido con el aprendizaje constante y la mejora continua.</h3>
 </div>
 
+<div id="badges" align="center">
+  <a href="https://twitter.com/rdelicad" target"_blank">
+    <img src="https://img.shields.io/twitter/follow/rdelicad"
+      alt="Twiter Badge" />
+  </a>
+  <a href="https://github.com/rdelicad" target"_blank">
+    <img src="https://img.shields.io/github/followers/rdelicad"
+      alt="Github Badge" />
+  </a>
+</div>
 
+---
+## Mi Trayectoria:
+## 🎓 Estudiante de 42 Málaga: 
+Actualmente, me encuentro inmerso en el desafiante entorno de 42 Málaga, donde estoy adquiriendo habilidades técnicas y resolviendo problemas complejos en un ambiente de colaboración.
 
+## 💼 HackTheBox y Acadamey: 
+Anteriormente, he completado algunos módulos en la plataforma Acadamey HackTheBox, donde exploré y fortalecí mis habilidades en ciberseguridad.
 
-<!--
-**rdelicad/rdelicad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📱 Ciberseguridad en Dispositivos Móviles: 
+He cursado un programa especializado en ciberseguridad en dispositivos móviles, lo que me ha permitido entender a fondo los desafíos y las soluciones en este campo crítico.
 
-Here are some ideas to get you started:
+## 🐧 Linux y Personalización: 
+Además, tengo experiencia en Linux y su personalización, habiendo completado un curso en Hack4u.io. Esto me ha proporcionado un conocimiento sólido de sistemas operativos y la capacidad de adaptar Linux según mis necesidades.
 
-- 🔭 I’m currently working on ...
-🌱 Actualmente estoy estudiando en 42 Málaga desde Abril
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi Pasión:
+Me encanta la programación y explorar el emocionante mundo de la ciberseguridad. Siempre estoy en busca de nuevos desafíos técnicos y proyectos emocionantes para poner en práctica mis habilidades.
+
+Conecta Conmigo:
+Si compartes mis intereses o simplemente deseas establecer una conexión en el mundo de la tecnología, ¡no dudes en contactarme! Estoy abierto a colaboraciones, discusiones técnicas y oportunidades de aprendizaje conjunto.
+
+¡Gracias por visitar mi perfil de GitHub y espero tener la oportunidad de conectarme contigo en el futuro!
+
+Puedes personalizar este texto según tus preferencias y experiencias específicas. ¡Buena suerte con tu perfil de GitHub!
