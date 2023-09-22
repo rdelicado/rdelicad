@@ -40,3 +40,12 @@ Si compartes mis intereses o simplemente deseas establecer una conexión en el m
 ¡Gracias por visitar mi perfil de GitHub y espero tener la oportunidad de conectarme contigo en el futuro!
 
 Puedes personalizar este texto según tus preferencias y experiencias específicas. ¡Buena suerte con tu perfil de GitHub!
+
+<div align="left">
+  <h3>🔨 Lenguajes y herramientas</h3>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="HTML5" alt="HTL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="HTML5" alt="HTL" width="40" height="40"/>&nbsp;
+  </div>
+
+ 
