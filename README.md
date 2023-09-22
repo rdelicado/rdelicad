@@ -16,9 +16,14 @@ Soy un apasionado estudiante de 42 Málaga con un profundo interés en el mundo 
       alt="Github Badge" />
   </a>
 </div>
+<div align="left">
+  <h3>🔨 Lenguajes y herramientas</h3>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="HTML5" alt="HTL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="HTML5" alt="HTL" width="40" height="40"/>&nbsp;
+  </div>
 
 ---
-## Mi Trayectoria:
 ## 🎓 Estudiante de 42 Málaga: 
 Actualmente, me encuentro inmerso en el desafiante entorno de 42 Málaga, donde estoy adquiriendo habilidades técnicas y resolviendo problemas complejos en un ambiente de colaboración.
 
