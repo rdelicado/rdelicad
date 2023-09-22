@@ -20,7 +20,9 @@ Soy un apasionado estudiante de 42 Málaga con un profundo interés en el mundo 
   <h3>🔨 Lenguajes y herramientas</h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="HTML5" alt="HTL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="HTML5" alt="HTL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="HTML5" alt="HTL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="HTML5" alt="HTL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="HTML5" alt="HTL" width="40" height="40"/>&nbsp;
   </div>
 
 ---
