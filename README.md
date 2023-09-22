@@ -1,4 +1,4 @@
-### Hola, mi nombre es Rubén Delicado 👋
+# Hola, mi nombre es Rubén Delicado 👋
 
 <!--
 **rdelicad/rdelicad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
