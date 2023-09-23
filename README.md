@@ -12,10 +12,12 @@
       alt="Twiter Badge" />
   </a>
   <a href="https://github.com/rdelicad" target"_blank">
-    <img src="https://img.shields.io/github/followers/rdelicad](https://img.shields.io/github/followers/rdelicad?logo=github
-)"
+    <img src="https://img.shields.io/github/followers/rdelicad?logo=github"
       alt="Github Badge" />
   </a>
+  <a href="https://github.com/rdelicad" target"_blank">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC43kHX-biTvCPpgX7xkKakQ"
+      alt="Github Badge" />
 </div>
 <div align="left">
   <h3>🔨 Lenguajes y herramientas</h3>
@@ -24,6 +26,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="HTML5" alt="HTL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="HTML5" alt="HTL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="HTML5" alt="HTL" width="40" height="40"/>&nbsp;
+     <img src="https://img.shields.io/youtube/channel/subscribers/UC43kHX-biTvCPpgX7xkKakQ" title="HTML5" alt="HTL" width="40" height="40"/>&nbsp;
   </div>
 
 ---
