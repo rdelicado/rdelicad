@@ -26,7 +26,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="HTML5" alt="HTL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="HTML5" alt="HTL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="HTML5" alt="HTL" width="40" height="40"/>&nbsp;
-     <img src="https://img.shields.io/youtube/channel/subscribers/UC43kHX-biTvCPpgX7xkKakQ" title="HTML5" alt="HTL" width="40" height="40"/>&nbsp;
   </div>
 
 ---
