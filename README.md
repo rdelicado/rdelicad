@@ -20,7 +20,7 @@
       alt="Github Badge" />
 </div>
 <div align="left">
-  <h3>🔨 Lenguajes y herramientas</h3>
+  <h3>🔨 Languages and toolss</h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="HTML5" alt="HTL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="HTML5" alt="HTL" width="40" height="40"/>&nbsp;
