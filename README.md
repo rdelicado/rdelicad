@@ -1,9 +1,9 @@
   > “ Si por la noche lloras por no ver el sol, las lágrimas te impedirán ver las estrellas ” -Tagore.
 <div id="header" align="center" >
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2dkZm50eWNjdzM1eHBxMmg1ZWpsM252MWdreWJxNWJtZm4ycGRvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" />
-  <h1 align="center"># Hola, mi nombre es Rubén Delicado 👋</h1>
-  <h3 align="center">¡Hola! 👋 Soy Rubén
-Soy un apasionado estudiante de 42 Málaga con un profundo interés en el mundo de la ciberseguridad y la programación. A lo largo de mi trayecto académico, he adquirido una sólida base de conocimientos y experiencia en diversas áreas de la tecnología, y estoy comprometido con el aprendizaje constante y la mejora continua.</h3>
+  <h1 align="center"># Hi!, my name is Rubén Delicado 👋</h1>
+  <h3 align="center">
+ I'm a passionate student from 42 Málaga with a deep interest in the world of cybersecurity and programming. Throughout my academic journey, I have acquired a solid knowledge base and experience in various areas of technology, and I am committed to constant learning and continuous improvement.</h3>
 </div>
 
 <div id="badges" align="center">
@@ -26,26 +26,26 @@ Soy un apasionado estudiante de 42 Málaga con un profundo interés en el mundo 
   </div>
 
 ---
-## 🎓 Estudiante de 42 Málaga: 
-Actualmente, me encuentro inmerso en el desafiante entorno de 42 Málaga, donde estoy adquiriendo habilidades técnicas y resolviendo problemas complejos en un ambiente de colaboración.
+### 🎓  Student at 42 Malaga:
+I am currently immersed in the challenging environment of 42 Malaga, where I am gaining technical skills and solving complex problems in a collaborative environment.
 
-## 💼 HackTheBox y Acadamey: 
-Anteriormente, he completado algunos módulos en la plataforma Acadamey HackTheBox, donde exploré y fortalecí mis habilidades en ciberseguridad.
+### 💼 Acadamey: 
+Previously, I have completed some modules on the Acadamey HackTheBox platform, where I explored and strengthened my cybersecurity skills.
 
-## 📱 Ciberseguridad en Dispositivos Móviles: 
-He cursado un programa especializado en ciberseguridad en dispositivos móviles, lo que me ha permitido entender a fondo los desafíos y las soluciones en este campo crítico.
+### 📱 Cybersecurity on Mobile Devices: 
+I took a specialised programme in mobile device cybersecurity, which gave me an in-depth understanding of the challenges and solutions in this critical field.
 
-## 🐧 Linux y Personalización: 
-Además, tengo experiencia en Linux y su personalización, habiendo completado un curso en Hack4u.io. Esto me ha proporcionado un conocimiento sólido de sistemas operativos y la capacidad de adaptar Linux según mis necesidades.
+### 🐧 Linux and Customisation:  
+In addition, I have experience in Linux and its customisation, having completed a course at Hack4u.io. This has given me a solid knowledge of operating systems and the ability to customise Linux to suit my needs..
 
-Mi Pasión:
-Me encanta la programación y explorar el emocionante mundo de la ciberseguridad. Siempre estoy en busca de nuevos desafíos técnicos y proyectos emocionantes para poner en práctica mis habilidades.
+### ❤️ My Passion:
+I love programming and exploring the exciting world of cybersecurity. I am always looking for new technical challenges and exciting projects to put my skills to use.
 
-Conecta Conmigo:
-Si compartes mis intereses o simplemente deseas establecer una conexión en el mundo de la tecnología, ¡no dudes en contactarme! Estoy abierto a colaboraciones, discusiones técnicas y oportunidades de aprendizaje conjunto.
+### 👍 Connect With Me:
+If you share my interests or just want to make a connection in the tech world, feel free to contact me! I'm open to collaborations, technical discussions and joint learning opportunities.
 
-¡Gracias por visitar mi perfil de GitHub y espero tener la oportunidad de conectarme contigo en el futuro!
+Thanks for visiting my GitHub profile and I hope to have the opportunity to connect with you in the future!
 
-Puedes personalizar este texto según tus preferencias y experiencias específicas. ¡Buena suerte con tu perfil de GitHub!
+
 
  
