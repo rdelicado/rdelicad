@@ -49,6 +49,8 @@ If you share my interests or just want to make a connection in the tech world, f
 
 *Thanks for visiting my GitHub profile and I hope to have the opportunity to connect with you in the future!*
 
+![GitHub](https://github-readme-stats.vercel.app/api?username=rdelicad&show_icons=true&theme=radical)
+
 
 
  
