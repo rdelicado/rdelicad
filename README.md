@@ -12,7 +12,8 @@
       alt="Twiter Badge" />
   </a>
   <a href="https://github.com/rdelicad" target"_blank">
-    <img src="https://img.shields.io/github/followers/rdelicad"
+    <img src="[https://img.shields.io/github/followers/rdelicad](https://img.shields.io/github/followers/rdelicad?logo=github
+)"
       alt="Github Badge" />
   </a>
 </div>
